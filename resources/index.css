@@ -1,0 +1,23 @@
+header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.mytimes {
+  color: MediumAquamarine;
+}
+a {
+  color: black;
+}
+li {
+  text-decoration: underline;
+  list-style: none;
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+}
